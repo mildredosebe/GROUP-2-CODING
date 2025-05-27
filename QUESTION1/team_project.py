@@ -1,4 +1,3 @@
-
 projects = [
     {"name": "AI App", "skills": {"python", "ml"}},
     {"name": "Web App", "skills": {"html", "css", "js"}}
